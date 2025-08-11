@@ -1,0 +1,14 @@
+C:\Users\Alumnos\source\repos\Pasteleria.02\bin\Debug\Pasteleria.02.exe.config
+C:\Users\Alumnos\source\repos\Pasteleria.02\bin\Debug\Pasteleria.02.exe
+C:\Users\Alumnos\source\repos\Pasteleria.02\bin\Debug\Pasteleria.02.pdb
+C:\Users\Alumnos\source\repos\Pasteleria.02\obj\Debug\Pasteleria.02.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Pasteleria.02\obj\Debug\Pasteleria.02.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Pasteleria.02\obj\Debug\Pasteleria.02.exe
+C:\Users\Alumnos\source\repos\Pasteleria.02\obj\Debug\Pasteleria.02.pdb
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\bin\Debug\Pasteleria.02.exe.config
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\bin\Debug\Pasteleria.02.exe
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\bin\Debug\Pasteleria.02.pdb
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\obj\Debug\Pasteleria.02.csproj.AssemblyReference.cache
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\obj\Debug\Pasteleria.02.csproj.CoreCompileInputs.cache
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\obj\Debug\Pasteleria.02.exe
+D:\Trabajo 6 tec Info\Programación - Diyarian\Pasteleria.02\obj\Debug\Pasteleria.02.pdb
